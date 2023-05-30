@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Buky.DataAccess.Repository.IRepository
+namespace Bulky.DataAccess.Repository.IRepository
 {
     public interface IRepository<T> where T : class
     {
